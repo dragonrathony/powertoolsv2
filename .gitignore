@@ -1,0 +1,5 @@
+backend/.env
+backend/documents/entry/
+backend/public/upload/
+backend/node_modules/
+client/node_modules/
